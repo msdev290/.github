@@ -32,11 +32,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <div>  
 <a href="https://app.daily.dev/Piranha20103" align="left"><img align="left" src="https://api.daily.dev/devcards/8350418c0c0a4e5192805bab5afe841f.png?r=j0p" width="400" alt="Tai Ming's Dev Card"/></a>
 </div>
