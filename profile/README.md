@@ -36,5 +36,5 @@
 <br>
 <div>  
 <a href="https://app.daily.dev/Piranha20103" align="left"><img align="left" src="https://api.daily.dev/devcards/a1ef6ce5ea454c7db6003f8e78f927c2.png?r=iz3" width="400" alt="Nishida Kin's Dev Card"/></a>
-<a href="https://app.daily.dev/ShikamaruNara" align="right"><img align="right" src="https://api.daily.dev/devcards/1fe408af03c34af697520f8aa096993e.png?r=1ip" width="400" alt="Shikamaru Nara's Dev Card"/></a>
+<a href="https://app.daily.dev/ShikamaruNara" align="right"><img align="right" src="https://api.daily.dev/devcards/1fe408af03c34af697520f8aa096993e.png?r=pdh" width="400" alt="Shikamaru Nara's Dev Card"/></a>
 </div>
