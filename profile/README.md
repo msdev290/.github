@@ -38,3 +38,32 @@
 <a href="https://app.daily.dev/Piranha20103" align="left"><img align="left" src="https://user-images.githubusercontent.com/92864027/161986265-dde4488b-1e92-447a-ac26-6599e737229e.png" width="400" alt="Nishida Kin's Dev Card"/></a>
 <a href="https://app.daily.dev/ShikamaruNara" align="right"><img align="right" src="https://user-images.githubusercontent.com/92864027/161986375-7f1b168e-bc54-42d9-906b-ee5b86091e99.png" width="400" alt="Shikamaru Nara's Dev Card"/></a>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img align="left" width="400" src="https://user-images.githubusercontent.com/92864027/162187435-5071b9c7-6802-4618-b161-df4de4c592d6.png" alt="Akira's Dev Card"/>
