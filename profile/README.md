@@ -66,4 +66,5 @@
 <br>
 <br>
 <br>
-<img align="left" width="400" src="https://user-images.githubusercontent.com/92864027/162187435-5071b9c7-6802-4618-b161-df4de4c592d6.png" alt="Akira's Dev Card"/>
+<img align="left" width="400" src="https://user-images.githubusercontent.com/92864027/162787825-6f5573e8-8a0f-4596-ae42-e90988e57194.png" alt="Akira's Dev Card"/>
+
