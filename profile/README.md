@@ -41,9 +41,10 @@
 <br>
 <br>
 <br>
-
+<div>
 <img align="left" width="400" src="https://user-images.githubusercontent.com/92864027/162787825-6f5573e8-8a0f-4596-ae42-e90988e57194.png" alt="Akira's Dev Card"/>
 <a href="https://app.daily.dev/CyberStorm2007" align="right"><img align="right" src="https://user-images.githubusercontent.com/92864027/166299655-c0dd4091-2e4a-4e85-af66-4bd467e95f2d.png" width="400" alt="cyberstorm's Dev Card"/></a>
+</div>
 <br>
 <br>
 <br>
@@ -72,4 +73,7 @@
 <br>
 <br>
 <br>
-<a href="https://app.daily.dev/hurricane918" align="left"><img src="https://api.daily.dev/devcards/21d6a26f423f4bb69fe86a2a75af24e2.png?r=xdi" width="400" alt="Hurricane's Dev Card"/></a>
+<div>
+<a href="https://app.daily.dev/hurricane918" align="left"><img align="left" src="https://api.daily.dev/devcards/21d6a26f423f4bb69fe86a2a75af24e2.png?r=xdi" width="400" alt="Hurricane's Dev Card"/></a>
+<a href="https://app.daily.dev/MindStar" align="right"><img align="right" src="https://api.daily.dev/devcards/aba7c016d8e6496cb3cbdc2e145967db.png?r=mc2" width="400" alt="Mind1995Star's Dev Card"/></a>
+</div>
