@@ -2,8 +2,8 @@
 <h1 align="center">Shinobi Developers</h1>
 <br>
 <div>
-<a href="https://app.daily.dev/Shinobi8894" align="right"><img align="right" src="https://user-images.githubusercontent.com/92864027/163390921-b83b2138-1b28-4311-b49b-7aa19cff9452.png" width="400" alt="Tadashi Amano's Dev Card"/></a>
-<a href="https://app.daily.dev/superninja0119" align="left"><img align="left" src="https://user-images.githubusercontent.com/92864027/161986156-940387d3-42dd-4594-b03c-f3bb1c7713b7.png" width="400" alt="SuperNinja's Dev Card"/></a>
+<a href="https://app.daily.dev/Shinobi8894" align="right"><img align="right" src="https://user-images.githubusercontent.com/92864027/175864634-d3fd15fc-3bfd-4c41-beb7-f62383958650.png" width="400" alt="Tadashi Amano's Dev Card"/></a>
+<a href="https://app.daily.dev/MindStar" align="left"><img align="left" src="https://api.daily.dev/devcards/aba7c016d8e6496cb3cbdc2e145967db.png?r=mc2" width="400" alt="Mind1995Star's Dev Card"/></a>
 </div>
 <br>
 <br>
@@ -11,6 +11,7 @@
 <br>
 <br>
 <br>
+
 <br>
 <br>
 <br>
@@ -75,5 +76,4 @@
 <br>
 <div>
 <a href="https://app.daily.dev/hurricane918" align="left"><img align="left" src="https://api.daily.dev/devcards/21d6a26f423f4bb69fe86a2a75af24e2.png?r=xdi" width="400" alt="Hurricane's Dev Card"/></a>
-<a href="https://app.daily.dev/MindStar" align="right"><img align="right" src="https://api.daily.dev/devcards/aba7c016d8e6496cb3cbdc2e145967db.png?r=mc2" width="400" alt="Mind1995Star's Dev Card"/></a>
 </div>
