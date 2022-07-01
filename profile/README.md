@@ -36,7 +36,7 @@
 <br>
 <div>  
 <a href="https://app.daily.dev/Piranha20103" align="left"><img src="https://api.daily.dev/devcards/a1ef6ce5ea454c7db6003f8e78f927c2.png?r=fs7" width="400" alt="Araki Kiyoshi's Dev Card"/></a>
-<a href="https://app.daily.dev/ShikamaruNara" align="right"><img align="right" src="https://user-images.githubusercontent.com/92864027/162556777-7c5894e1-1630-419c-999b-364384f3c514.png" width="400" alt="Shikamaru Nara's Dev Card"/></a>
+<a href="https://app.daily.dev/pain1016" align="right"><img align="right" src="https://user-images.githubusercontent.com/92864027/176803916-eb44ab3f-6760-4945-811f-2571b20fbd46.png" width="400" alt="Shikamaru Nara's Dev Card"/></a>
 </div>
 <br>
 <br>
