@@ -13,7 +13,6 @@ like Shinobi in the cyber development world.
 
 🔸 Email : shinobitensei416@gmail.com
 🔸 Skype : https://join.skype.com/invite/BPaiOd9dJ5YZ
-
 🔸 Discord : Shinobi#6939
 🔸 Twitter : @TadashiAmano
 🔸 Linkedin : tadashi-amano
