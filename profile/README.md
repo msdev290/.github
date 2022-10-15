@@ -13,9 +13,31 @@ like Shinobi in the cyber development world.
 
 🔸 Email : shinobitensei416@gmail.com
 🔸 Skype : https://join.skype.com/invite/BPaiOd9dJ5YZ
+
 🔸 Discord : Shinobi#6939
 🔸 Twitter : @TadashiAmano
 🔸 Linkedin : tadashi-amano
+
+Thank you
+</pre>
+</pre>
+<pre>
+<img src="https://user-images.githubusercontent.com/92864027/195976195-6156e115-2b67-4d62-9097-982444aa8e00.png" width="400" align="left">
+<pre>
+<h3>Daisuke Nagata</h3>
+
+<h4>🔸 Who am I ?</h4>
+I have super technlogy and am a one of senior developer 
+in Shinobi Developer Group.
+<h4>🔸 Bio</h4>
+None is born with experience and I will get more professional
+experience through working.
+<h4>🔸 Contact</h4>
+
+🔸 Email : daisukenagata0209@gmail.com
+🔸 Skype : https://join.skype.com/invite/xsm84C8IPWAg
+🔸 Discord : !   MindStar#0822
+🔸 Website : https://mindstar.herokuapp.com
 
 Thank you
 </pre>
