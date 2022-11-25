@@ -23,7 +23,7 @@ Thank you
 <pre>
 <img src="https://user-images.githubusercontent.com/92864027/195976195-6156e115-2b67-4d62-9097-982444aa8e00.png" width="380" align="left">
 <pre>
-<h3>Daisuke Nagata</h3>
+<h3>Daisuke Nagata ( Head of Tech )</h3>
 
 <h4>🔸 Who am I ?</h4>
 I have super technlogy and am a one of senior developer 
